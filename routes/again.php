@@ -1,7 +1,6 @@
 <?php
 // wp-content/themes/savvy-media/functions.php
   add_theme_support('post-thumbnails');
-  add_theme_support('title-tag');
 
 });
 add_action('wp_enqueue_scripts', function(){
